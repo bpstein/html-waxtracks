@@ -157,12 +157,6 @@ HOME SECTION
   max-width: 1560px; 
   position: relative; 
 }
-
-#home-break-text {
-  text-align: center;
-  margin-right: 50px;
-  margin-top: 150px;
-}
  
 #home-break article { 
   height: 500px; 
@@ -282,7 +276,7 @@ STORY SECTION
   height: 500px; 
   position: absolute; 
   text-align: center; 
-  margin-top: 150px; 
+  margin-top: 300px; 
   width: 100%; 
 }
 
@@ -319,7 +313,7 @@ CONTACT SECTION
   position: absolute; 
   vertical-align: center;
   text-align: center; 
-  margin-top: 150px; 
+  margin-top: 300px; 
   width: 100%; 
 }
 
@@ -351,25 +345,7 @@ CONTACT SECTION
 #mail {
   margin-top: 75px;
 }
-/*.contact-info li.mail a {
-  background-image: url('img/mail.png'); 
-  margin-left: 50px;
-  margin-top: 0px;
-  list-style: none;
-}
 
-.contact-info li.facebook a {
-  background-image: url('img/facebook.png');
-  margin-left: 60px;
-  list-style: none;
-
-}
-
-.contact-info li.phone a {
-  background-image: url('img/phone.png');
-  margin-left: 60px;
-  list-style: none;
-}*/
 
 
 /****************
